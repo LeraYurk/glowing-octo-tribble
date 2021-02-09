@@ -1,0 +1,11 @@
+commit 7a3413b0e3f9aca1f2da17d9b4f248f4864032a8 (HEAD -> master)
+Author: Lera Yurkova <lerahand@mail.ru>
+Date:   Tue Feb 9 17:51:57 2021 +0300
+
+    status.txt
+
+commit 8b4c090489daf9c91aa708f9ece16496b79e0459
+Author: Lera Yurkova <lerahand@mail.ru>
+Date:   Tue Feb 9 17:46:49 2021 +0300
+
+    add .gitignore
