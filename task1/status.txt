@@ -1,0 +1,52 @@
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   First/.idea/.gitignore
+        new file:   First/.idea/description.html
+        new file:   First/.idea/encodings.xml
+        new file:   First/.idea/misc.xml
+        new file:   First/.idea/modules.xml
+        new file:   First/.idea/project-template.xml
+        new file:   First/.idea/vcs.xml
+        new file:   First/First.iml
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    First/.idea/.gitignore
+        deleted:    First/.idea/description.html
+        deleted:    First/.idea/encodings.xml
+        deleted:    First/.idea/misc.xml
+        deleted:    First/.idea/modules.xml
+        deleted:    First/.idea/project-template.xml
+        deleted:    First/.idea/vcs.xml
+        deleted:    First/First.iml
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .idea/
+        GitYP.iml
+        src/
+        task1/
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    First/.idea/.gitignore
+        deleted:    First/.idea/description.html
+        deleted:    First/.idea/encodings.xml
+        deleted:    First/.idea/misc.xml
+        deleted:    First/.idea/modules.xml
+        deleted:    First/.idea/project-template.xml
+        deleted:    First/.idea/vcs.xml
+        deleted:    First/First.iml
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        src/
+        task1/
+
+no changes added to commit (use "git add" and/or "git commit -a")
