@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>БелЗдоровье</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<!--  onload="addBegin()"-->
+<body >
+<header class="site-header">
+    <img src="images/logo.png" width="240" height="40" >
+
+</header>
+<main>
+    <div class="main_string">
+        <div class="main_buttons">
+            <button id="'btn-add" class="main_buttons_but" onclick='b.newPost()'>Добавить</button>
+            <button class="main_buttons_but" onclick="b.editPost()">Редактировать</button>
+            <button class="main_buttons_but" onclick="b.deletePost()">Удалить</button>
+        </div>
+        <h2 class="login"></h2>
+        <button class="enter">Выход</button>
+    </div>
+    <h2 class="order">Заказ талонов</h2>
+    <div class="filter">
+        <h2 class="filter-header">Сортировать по: </h2>
+        <div class="filter-btns">
+            <h2><input type="checkbox"> дате</h2>
+            <h2><input type="checkbox"> имени пользователя</h2>
+            <h2><input type="checkbox"> хештешгам</h2>
+        </div>
+    </div>
+    <div class="posts-container" ></div>
+    <button  class="uploade" onclick="b.addItem()">Загрузить еще</button>
+</main>
+<footer>
+    <p class="person-info">Юркова Валерия, 2 курс 7 группа, fpm.yurkovaVo@bsu.by</p>
+    <div class="change-info">
+        <p>Последнее изменение: <span>18:17 23.02.2021</span></p>
+    </div>
+</footer>
+<script type="text/javascript" src="script.js"></script>
+</body>
+</html>
